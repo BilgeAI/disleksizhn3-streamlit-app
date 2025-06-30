@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF
+import fitz  #PyMuPDF
 import graphviz
 import re
 
