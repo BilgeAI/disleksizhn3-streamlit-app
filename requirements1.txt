@@ -1,4 +1,5 @@
 streamlit
 graphviz
 PyMuPDF
+re
 
