@@ -1,7 +1,8 @@
 import streamlit as st
-pip install PyMuPDF
+import fitz  # PyMuPDF
 import graphviz
 import re
+
 
 st.set_page_config(layout="wide")
 st.title("📘 Disleksi Dostu Zihin Haritası Uygulaması")
